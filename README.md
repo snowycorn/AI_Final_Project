@@ -74,6 +74,9 @@ Run `run_train_dqn_hold.py` if you'd like to train the AI when considering "Hold
 Run `run_performance.py` to see how many games and frames per second it has using randomized actions.
 
 ## Links
+[Report Video]
+(https://www.youtube.com/watch?v=H9yfl8hy8OA)
+
 Explanations for statistics
 
 [Building Controllers for Tetris](https://pdfs.semanticscholar.org/e6b0/a3513e8ad6e08e9000ca2327537ac44c1c5c.pdf)
